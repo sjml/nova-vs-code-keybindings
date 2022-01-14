@@ -1,0 +1,11 @@
+{
+    "identifier": "com.shaneliesegang.NovaVSCodeKeybindings",
+    "name": "VS Code Keybindings",
+    "organization": "Shane Liesegang",
+    "description": "Allows usage of VS Code's key bindings in Nova.",
+    "version": "0.1.0",
+    "categories": ["key-bindings"],
+    "bugs": "https://github.com/sjml/nova-vs-code-keybindings/issues",
+    "repository": "https://github.com/sjml/nova-vs-code-keybindings",
+    "license": "MIT"
+}

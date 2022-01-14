@@ -1,0 +1,109 @@
+{
+  "menuItems" : {
+    "Build" : {
+      "shortcut" : "cmd-shift-b"
+    },
+    "FocusNextPane" : {
+      "shortcut" : "cmd-alt-right"
+    },
+    "FocusPreviousPane" : {
+      "shortcut" : "cmd-alt-left"
+    },
+    "Fold" : {
+      "shortcut" : "cmd-alt-["
+    },
+    "GoBack" : {
+      "shortcut" : "ctrl--"
+    },
+    "GoForward" : {
+      "shortcut" : "ctrl-_"
+    },
+    "GoToFolder" : {
+
+    },
+    "GoToLocalPath" : {
+
+    },
+    "GoToRemotePath" : {
+
+    },
+    "JumpToNextBracket" : {
+
+    },
+    "JumpToPreviousBracket" : {
+      "shortcut" : "cmd-?"
+    },
+    "NewLocalTerminal" : {
+      "shortcut" : "ctrl-`"
+    },
+    "OpenPreviewInTab" : {
+      "shortcut" : "cmd-shift-v"
+    },
+    "OpenQuickly" : {
+      "shortcut" : "cmd-p"
+    },
+    "OpenQuicklyInSymbols" : {
+      "shortcut" : "cmd-shift-o"
+    },
+    "Print" : {
+
+    },
+    "Replace" : {
+      "shortcut" : "cmd-!"
+    },
+    "ReplaceAll" : {
+      "shortcut" : "cmd-alt-return"
+    },
+    "Run" : {
+      "shortcut" : "f5"
+    },
+    "SelectAllInAnyScope" : {
+      "shortcut" : "cmd-shift-l"
+    },
+    "SelectInsideBrackets" : {
+
+    },
+    "ShowExtensionsLibrary" : {
+      "shortcut" : "cmd-shift-x"
+    },
+    "ShowFilesSidebar" : {
+      "shortcut" : "cmd-shift-e"
+    },
+    "ShowGitSidebar" : {
+      "shortcut" : "ctrl-shift-g"
+    },
+    "ShowHelp" : {
+
+    },
+    "ShowInFinder" : {
+      "shortcut" : "cmd-alt-r"
+    },
+    "ShowIssuesSidebar" : {
+      "shortcut" : "cmd-shift-m"
+    },
+    "ShowWelcome" : {
+
+    },
+    "Stop" : {
+      "shortcut" : "shift-f5"
+    },
+    "ToggleCommentAlternate" : {
+      "shortcut" : "alt-shift-a"
+    },
+    "ToggleInvisibleCharacters" : {
+
+    },
+    "ToggleSidebar" : {
+      "shortcut" : "cmd-b"
+    },
+    "ToggleWrapLines" : {
+      "shortcut" : "alt-z"
+    },
+    "Unfold" : {
+      "shortcut" : "cmd-alt-]"
+    },
+    "UseSelectionForReplace" : {
+
+    }
+  }
+}

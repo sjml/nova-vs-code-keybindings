@@ -8,9 +8,11 @@ I did my best to mimic VS Code's out-of-the-box keybindings as much as possible,
 * If existing Nova shortcuts did not conflict with VS Code, I left them as-is.
 * If existing Nova shortcuts did conflict, they were removed rather than re-assigned elsewhere. 
 
-Not all of the functionality is stuff that I personally use day to day, so my best-guess at matching it to Nova might have been wrong. Please make a pull request if somethign here seems off to you. 
+Not all of the functionality is stuff that I personally use day to day, so my best-guess at matching it to Nova might have been wrong. Please make a pull request if something here seems off to you. 
 
 ### Mappings
+
+**Note**: Nova's bindings use combined characters, so this list will contain entries like "⌘-!" where you and I might think of it as "⌘-⇧-1". Such is the way of things. 
 
 | Menu Item                     | Binding     |
 |-------------------------------|-------------|

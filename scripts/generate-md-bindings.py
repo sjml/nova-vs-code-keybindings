@@ -1,8 +1,6 @@
 import os
 import json
 
-from black import out
-
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 BINDINGS_FILE = os.path.join(
